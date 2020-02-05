@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Machine Learning, Deep Learning, NLP, Knowledge Graph
+role: Machine Learning, Deep Learning, Big Data Analysis
 
 # Organizations/Affiliations
 organizations:
@@ -71,4 +71,11 @@ user_groups:
 - AILab
 ---
 
-We are a research group of the Faculty of Applied Mathematics and Control Processes of Saint Petersburg State University and Yan'an University. Our activities are rooted in the combination of fundamental and applied research with a view on the development of novel, more advanced technologies.
+We are a research group of the Faculty of Applied Mathematics and Control Processes of Saint Petersburg State University and Yan'an University. Conducting and implementing research, commercial and government projects in the field of research and development (RnD) in priority areas with the use of computer science in the field of machine learning, big data analysis, as well as modern methods of mathematical modeling of processes in various areas of human activity.
+
+Including:
+1.	Work on research grants from the Chinese government.
+2.	Work on government and commercial projects.
+3.	Training groups of students and postgraduates, as well as involving them in project activities using the Case Study methodology.
+
+Our activities are rooted in the combination of fundamental and applied research with a view on the development of novel, more advanced technologies.
