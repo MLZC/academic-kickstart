@@ -12,3 +12,5 @@ header:
   caption: ""
   image: ""
 ---
+
+This empty page is waiting for news.

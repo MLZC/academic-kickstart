@@ -77,5 +77,3 @@ Including:
 1.	Work on research grants from the Chinese government.
 2.	Work on government and commercial projects.
 3.	Training groups of students and postgraduates, as well as involving them in project activities using the Case Study methodology.
-
-Our activities are rooted in the combination of fundamental and applied research with a view on the development of novel, more advanced technologies.

@@ -11,12 +11,68 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
+height = "700px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Yau"
+  title = "Information Edifice"
+  content = "Information Edifice is a landmark of the Faculty of Mathematics and Computer Science of Yanan University."
+  align = "right"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "yau/informationBuilding.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+[[item]]
+  title = "Inner of Information Edifice"
+  content = "The information Edifice contains teaching areas, office areas and a number of advanced technology laboratories."
+  align = "left"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "yau/Ovanes2.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+
+[[item]]
+  title = "Inside the Information Edifice"
+  content = "Inside the Information Edifice"
+  align = "right"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "yau/Ovanes1.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Professor of S.t Petersburg in Yanan University"
+  content = "In front of the Library of Yanan University with fresh students"
+  align = "right"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "yau/Ovanes3.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Award Honorable Professor"
+  content = "In front of the library of the old campus of Yanan University, the leadership of the Faculty of Computers granted honorary professors to Ivan, Ovanes, and Anton."
+  align = "left"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "yau/Ovanes4.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+
+[[item]]
+  title = "Yanan University"
   content = "Library in Yanan University"
   align = "center"  # Choose `center`, `left`, or `right`.
 
